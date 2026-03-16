@@ -24,7 +24,7 @@ import json
 import threading
 
 # ── Config ────────────────────────────────────────────────────────────────────
-GEMINI_API_KEY = 'AIzaSyBfMZUhjUmZZ-8lP65YTjYdivp5ApnYO80'
+GEMINI_API_KEY = 'api_key'
 GEMINI_MODEL   = 'gemini-2.5-flash'   # fast and cheap
 
 # Known detectable objects (must match YOLO labels)
